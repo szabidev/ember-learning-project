@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    // ! experimentalDecorators is needed for MobX to work
+    "experimentalDecorators": true
+  },
+  "exclude": ["node_modules", "dist"]
+}
