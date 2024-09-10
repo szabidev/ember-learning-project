@@ -1,5 +1,7 @@
 # ember-tutorial-e-commerce learning project
 
+FIX Icons
+
 ## Add jsconfig.json file
 
 ```
@@ -40,3 +42,8 @@
 - They render the template component
 - Route can have a model, and Controller can have actions and properties
 - The controller has acces also to the model from the route
+
+## Component
+
+- Componennts can be put inside a router or inside another component
+- Nested component are used like this <Component::NestedComponent/>
